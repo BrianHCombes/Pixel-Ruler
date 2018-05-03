@@ -5,6 +5,8 @@
  * 
  * Pixel Ruler Ver 1.0 - Release 03/17/2016 - Now being updated further
  * 
+ * Created Git Repo on 05/03/2018
+ * 
  * *****************************************************************************
  * Note: Pixel ruler uses jQuery and needs supporting javascript file as follows
  * src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js" 
